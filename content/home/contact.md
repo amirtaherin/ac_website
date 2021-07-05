@@ -3,6 +3,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
+# To activate the accomplishment change the following line:
+active: false
+
 # This file represents a page section.
 headless: true
 

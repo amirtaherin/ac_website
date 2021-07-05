@@ -3,13 +3,17 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 
+# To activate the accomplishment change the following line:
+active: true 
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+# the original name was Featured Publication
+title: Publications
 subtitle: ""
 
 content:
@@ -32,5 +36,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
 ---

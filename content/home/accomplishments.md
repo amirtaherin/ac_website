@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
+# To activate the accomplishment change the following line:
+active: false
+
 # This file represents a page section.
 headless: true
 
